@@ -1,6 +1,7 @@
 CyanogenMod device configuration for the Huawei C8500S
 
 Powered by ferhung
+
 Originally designed from Huawei U8150 which changed, improved and optimized by tilal6991 and alanorth
 
 Pre-Setup
