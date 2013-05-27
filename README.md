@@ -33,7 +33,7 @@ $ repo sync -j16
 
 $ ~/android/vendor/cyanogen/get-rommanager
 
-4)Copy the device configuration to ~/android/system/devices/huawei/C8500S. Then build:
+4)Copy the device configuration to ~/android/system/device/huawei/C8500S. Then build:
 
 $ cd ~/android/system
 
